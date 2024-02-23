@@ -11,4 +11,6 @@ If this sounds interesting, and you agree to the simple [RULES](https://www.thes
 
 For answers to all the questions you have, go to the [FAQs](https://www.thesgc.org/sgc-open-chemistry-networks/faq).
 
-If you'd like to contact someone to talk about contributing, then write something in an Issue (see the tab above), which is a good way to communicate openly. (Issues describe what currently needs doing and act as a discussion forum - you need a Github account but it's super easy and not spammy. There's also an email address (chemistry@thesgc.org) you can use to ask questions. You can read more about all this in the ["How To" Area](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki)
+If you'd like to contact someone to talk about contributing, then write something in an Issue (see the tab above), which is a good way to communicate openly. (Issues describe what currently needs doing and act as a discussion forum - you need a Github account but it's super easy and not spammy. There's also an email address (chemistry@thesgc.org) you can use to ask questions. You can read more about all this in the ["How To" Area](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki).
+
+<a href="url"><img src="https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/blob/main/Open%20Chemistry%20Networks%20Logos/OCN_Logo_Final_smban.png?raw=true" align="centre" height="300" ></a>
